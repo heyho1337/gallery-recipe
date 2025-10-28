@@ -1,0 +1,7 @@
+{
+  "copy-from-package": {
+        "src/": "src/",
+        "assets/": "assets/",
+        "templates/@gallery/": "templates/bundles/heyhodesigns/gallery/"
+    }
+}

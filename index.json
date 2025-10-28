@@ -1,0 +1,18 @@
+{
+    "aliases": [],
+    "recipes": {
+        "heyhodesigns/gallery": ["v1.0.5"]
+    },
+    "recipe-conflicts": [],
+    "versions": [],
+    "branch": "main",
+    "is_contrib": false,
+    "_links": {
+        "repository": "github.com/heyho1337/gallery-recipe",
+        "origin_template": "{package}:{version}@github.com/heyho1337/gallery-recipe:main",
+        "recipe_template": "https://raw.githubgallerycontent.com/heyho1337/gallery-recipe/main/{package_dotted}.{version}.json",
+        "recipe_template_relative": "{package_dotted}.{version}.json",
+        "archived_recipes_template": "https://raw.githubgallerycontent.com/heyho1337/gallery-recipe/main/archived/{package_dotted}/{ref}.json",
+        "archived_recipes_template_relative": "archived/{package_dotted}/{ref}.json"
+    }
+}
