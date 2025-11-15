@@ -5,14 +5,14 @@
     },
     "recipe-conflicts": [],
     "versions": [],
-    "branch": "main",
+    "branch": "master",
     "is_contrib": false,
     "_links": {
         "repository": "github.com/heyho1337/gallery-recipe",
-        "origin_template": "{package}:{version}@github.com/heyho1337/gallery-recipe:main",
-        "recipe_template": "https://raw.githubgallerycontent.com/heyho1337/gallery-recipe/main/{package_dotted}.{version}.json",
+        "origin_template": "{package}:{version}@github.com/heyho1337/gallery-recipe:master",
+        "recipe_template": "https://raw.githubgallerycontent.com/heyho1337/gallery-recipe/master/{package_dotted}.{version}.json",
         "recipe_template_relative": "{package_dotted}.{version}.json",
-        "archived_recipes_template": "https://raw.githubgallerycontent.com/heyho1337/gallery-recipe/main/archived/{package_dotted}/{ref}.json",
+        "archived_recipes_template": "https://raw.githubgallerycontent.com/heyho1337/gallery-recipe/master/archived/{package_dotted}/{ref}.json",
         "archived_recipes_template_relative": "archived/{package_dotted}/{ref}.json"
     }
 }
